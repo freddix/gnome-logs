@@ -1,11 +1,11 @@
 Summary:	Log viewer for the systemd journal
 Name:		gnome-logs
-Version:	3.14.0
+Version:	3.14.1
 Release:	1
 License:	GPL v3
 Group:		X11/Applications
 Source0:	https://download.gnome.org/sources/gnome-logs/3.14/%{name}-%{version}.tar.xz
-# Source0-md5:	26bda6759147ac0303f88a06ff147ee8
+# Source0-md5:	7eae94c9df8c560c954c76eecb3f1a37
 URL:		https://wiki.gnome.org/Apps/Logs
 BuildRequires:	autoconf
 BuildRequires:	automake
